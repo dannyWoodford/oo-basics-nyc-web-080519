@@ -1,1 +1,7 @@
-def initialize
+class Shoe
+  
+  def initialize
+    
+  end 
+
+end
