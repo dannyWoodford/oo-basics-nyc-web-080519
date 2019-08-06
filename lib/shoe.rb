@@ -14,5 +14,10 @@ class Shoe
       attr_accessor :material
       
       attr_accessor :condition
+      
+        def cobble
+          puts "The shoe has been repaired"
+        end
+          
   
 end
